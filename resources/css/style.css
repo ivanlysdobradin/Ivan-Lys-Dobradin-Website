@@ -5,6 +5,9 @@ div.heading1{
 div.heading2{
   text-align: center;
 }
+h2{
+  font-size: 12px;
+}
 ul{
       list-style-type: none;
       margin: 0;
