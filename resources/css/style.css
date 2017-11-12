@@ -11,6 +11,8 @@ div.heading2{
   background-image: url("resources/media/artfestival.jpg")
 }
 div.heading1 img{
-  height: 20%;
+  display: block;
+  margin: auto;
+  height: 10%;
   width: auto;
 }
