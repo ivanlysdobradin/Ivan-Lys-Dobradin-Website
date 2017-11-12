@@ -1,7 +1,11 @@
 .heading1{
+  text-align: center;
+  font-family: palatino;
   background-image: url("resources/media/WP.jpg")
 }
 .heading2{
+  text-align: center;
+  font-family: palatino;
   background-image: url("resources/media/artfestival.jpg")
 }
 .img{
