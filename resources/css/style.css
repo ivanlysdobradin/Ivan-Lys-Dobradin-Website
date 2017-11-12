@@ -5,5 +5,5 @@ div.heading1{
 div.heading2{
   text-align: center;
   font-family: palatino;
-  background-image: url(resources/media/artfestival.jpg)
+  background-image: url("resources/media/artfestival.jpg")
 }
