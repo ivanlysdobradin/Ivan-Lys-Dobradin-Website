@@ -7,7 +7,7 @@ div.heading2{
   font-family: palatino;
   background-image: url("/resources/media/artfestival.jpg");
 }
-li{
+ul{
   font-family: palatino;
   list-style-type: none;
   display: inline;
