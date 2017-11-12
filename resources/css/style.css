@@ -8,7 +8,7 @@ div.heading2{
   font-color: white;
   background-image: url("https://i.pinimg.com/736x/03/a3/e1/03a3e1e0aecb33daa16682d9ffe83112--festival-posters-art-festival.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 ul{
       list-style-type: none;
