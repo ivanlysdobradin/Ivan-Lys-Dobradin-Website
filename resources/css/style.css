@@ -1,8 +1,6 @@
 div.heading1{
   text-align: center;
   font-family: palatino;
-  height: 200px;
-  width: 120px;
   background-image: url('resources/media/WP.jpg')
 }
 div.heading2{
