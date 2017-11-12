@@ -1,10 +1,9 @@
 div.heading1{
   text-align: center;
   font-family: palatino;
-  background-image: url('resources/media/WP.jpg')
 }
 div.heading2{
   text-align: center;
   font-family: palatino;
-  background-image: url('resources/media/artfestival.jpg')
+  background-image: url(resources/media/artfestival.jpg)
 }
