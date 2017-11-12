@@ -18,7 +18,23 @@ ul{
       bottom: 0;
       width: 100%;
   }
-  li{
+li{
     font-family: palatino;
     float: left;
+}
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+li a.active {
+    color: white;
+    background-color: #4CAF50;
 }
