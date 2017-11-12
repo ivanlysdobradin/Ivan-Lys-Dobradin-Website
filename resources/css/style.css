@@ -4,3 +4,7 @@
 .heading2{
   background-image: url("resources/media/artfestival.jpg")
 }
+.img{
+  height: 20%;
+  width: auto;
+}
