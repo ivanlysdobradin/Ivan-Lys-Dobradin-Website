@@ -4,11 +4,13 @@ div.heading1{
 }
 div.heading2{
   text-align: center;
-  font-family: palatino;
-  font-color: white;
   background-image: url("https://i.pinimg.com/736x/03/a3/e1/03a3e1e0aecb33daa16682d9ffe83112--festival-posters-art-festival.jpg");
   background-repeat: no-repeat;
   background-size: contain;
+}
+h2{
+  font-family: palatino;
+  font-color: white;
 }
 ul{
       list-style-type: none;
