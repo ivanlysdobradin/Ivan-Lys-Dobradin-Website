@@ -8,6 +8,7 @@ div.heading2{
   background-image: url("/resources/media/artfestival.jpg");
 }
 ul{
+  text-align: center;
   font-family: palatino;
   list-style-type: none;
   display: inline;
