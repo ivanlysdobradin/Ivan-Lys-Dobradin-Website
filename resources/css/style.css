@@ -3,12 +3,12 @@ div.heading1{
   font-family: palatino;
   height: 200px;
   width: 120px;
-  background-image: url("resources/media/WP.jpg")
+  background-image: url(resources/media/WP.jpg)
 }
 div.heading2{
   text-align: center;
   font-family: palatino;
-  background-image: url("resources/media/artfestival.jpg")
+  background-image: url(resources/media/artfestival.jpg)
 }
 div.heading1 img{
   display: block;
