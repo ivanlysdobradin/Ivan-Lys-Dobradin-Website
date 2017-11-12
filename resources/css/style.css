@@ -11,5 +11,7 @@ ul{
   text-align: center;
   font-family: palatino;
   list-style-type: none;
-  display: inline;
+  }
+  li{
+    display: inline;
 }
